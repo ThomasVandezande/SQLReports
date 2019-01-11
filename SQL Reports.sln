@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SQL Reports", "SQL Reports.rptproj", "{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Debug|Default.ActiveCfg = Debug
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Debug|Default.Build.0 = Debug
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Debug|Default.Deploy.0 = Debug
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.DebugLocal|Default.Build.0 = DebugLocal
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Release|Default.ActiveCfg = Release
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Release|Default.Build.0 = Release
+		{E330CD92-5EC9-4EA0-96FD-D8EA9757CDE6}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1C5A51-5281-4CE5-B8D3-E2301F8A53FA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.realdolmen.com/tfs/defaultcollection
+		SccProjectUniqueName0 = SQL\u0020Reports.rptproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://tfs.realdolmen.com/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
